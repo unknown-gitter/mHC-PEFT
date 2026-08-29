@@ -225,7 +225,3 @@ python main.py train.use_dual_lr=true train.hc_learning_rate=3e-3 train.adapter_
 ## License
 
 This repository is released under the **Creative Commons Attribution License (CC BY)**.
-
-## Contact
-
-Maintainer: Floris de Kam; email: [floris.de.kam@student.uva.nl](mailto:floris.de.kam@student.uva.nl)
